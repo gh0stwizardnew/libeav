@@ -10,6 +10,7 @@
 #endif
 #include <eav/private.h>
 #include <eav/auto_tld.h>
+#include "validation.h"
 
 
 static const char * const errors[EEAV_MAX] = {
